@@ -424,7 +424,8 @@
     "login_error_401": "Incorrect email or password",
     "login_error_422": "Given email or password are invalid",
     "logging_you_in": "Logging you in. Please wait a moment...",
-    "inactive_account": "Your account is not active yet. You must verify it through your email address.\nInactive accounts cannot do most actions such as uploading mods or posting comments.\nThe account will be automatically deleted if no action will be taken a day after registration.",
+    "verify_email_title": "Email Verification",
+    "verify_email_desc": "You must verify your email.\nInactive accounts cannot do most actions on the site and are deleted after 24 hours if no action is taken.\nClick on 'Send Verification' to send the verification link.",
     "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'.",
     "verifying_email": "Verifying email. Please wait a moment...",
     "verified_email": "Successfully verified email! You can now use the account.",
@@ -652,5 +653,7 @@
     "developer_mode": "Developer Mode",
     "developer_mode_help": "Enables some features for developers. For example testing mod managers before they are added globally.",
     "grid_mode": "Grid Mode",
-    "just_now": "just now"
+    "just_now": "just now",
+    "new_user_title": "Successfully Created!",
+    "new_user_desc": "You may now login into your new account and verify your email."
 }
