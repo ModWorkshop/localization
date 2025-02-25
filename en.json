@@ -386,6 +386,7 @@
     "show_tag": "Show Tag",
     "show_tag_desc": "The tag appears near your name. Mostly used for moderators or supporters.",
     "donation": "Donation URL",
+    "donation_invalid": "You've entered an invalid donation link. We only support PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee.",
     "donation_desc": "Supports PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee. Shows in your profile and mod pages.",
     "custom_title": "Custom Title",
     "custom_color": "Custom Color",
