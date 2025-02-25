@@ -659,5 +659,12 @@
     "split_mode_tab": "Split Mode",
     "uploading_detailed": "{time} left - {current} of {total} ({speed}/s)",
     "just_now": "just now",
-    "report_sent": "Report has been sent!"
+    "report_sent": "Report has been sent!",
+    "send_verification": "Send Verification",
+    "verify_email_title": "Email Verification",
+    "verify_email_desc": "You must verify your email.\nInactive accounts cannot do most actions on the site and are deleted after 24 hours if no action is taken.\nClick on 'Send Verification' to send the verification link.",
+    "donation_invalid": "You've entered an invalid donation link. We only support PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee.",
+    "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'.",
+    "new_user_title": "Successfully Created!",
+    "new_user_desc": "You may now login into your new account and verify your email."
 }

@@ -667,5 +667,12 @@
     "split_mode_tab": "Режим разделения",
     "uploading_detailed": "Осталось {time} - {current} из {total} ({speed}/сек)",
     "just_now": "прямо сейчас",
-    "report_sent": "Жалоба отправлена!"
+    "report_sent": "Жалоба отправлена!",
+    "verify_email_title": "Email Verification",
+    "verify_email_desc": "You must verify your email.\nInactive accounts cannot do most actions on the site and are deleted after 24 hours if no action is taken.\nClick on 'Send Verification' to send the verification link.",
+    "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'.",
+    "send_verification": "Send Verification",
+    "new_user_title": "Successfully Created!",
+    "new_user_desc": "You may now login into your new account and verify your email.",
+    "donation_invalid": "You've entered an invalid donation link. We only support PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee."
 }
