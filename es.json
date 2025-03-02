@@ -668,11 +668,11 @@
     "uploading_detailed": "Quedan {time} - {current} de {total} ({speed}/s)",
     "just_now": "hace un momento",
     "report_sent": "¡Se ha enviado el reporte!",
-    "donation_invalid": "You've entered an invalid donation link. We only support PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee.",
-    "verify_email_title": "Email Verification",
-    "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'.",
-    "new_user_desc": "You may now login into your new account and verify your email.",
-    "new_user_title": "Successfully Created!",
-    "verify_email_desc": "You must verify your email.\nInactive accounts cannot do most actions on the site and are deleted after 24 hours if no action is taken.\nClick on 'Send Verification' to send the verification link.",
-    "send_verification": "Send Verification"
+    "donation_invalid": "Has ingresado un enlace de donación que no es válido. Solo admitimos PayPal, Ko-Fi, GitHub Sponsors y Buy Me a Coffee.",
+    "verify_email_title": "Verificación de correo electrónico",
+    "verification_warning": "La verificación por correo electrónico no se envía automáticamente al registrarte. Debes hacer clic en \"Enviar verificación\".",
+    "new_user_desc": "Ahora puedes iniciar sesión en tu cuenta nueva y verificar tu correo electrónico.",
+    "new_user_title": "¡Creado con éxito!",
+    "verify_email_desc": "Debes verificar tu correo electrónico.\nLas cuentas que no han sido activadas no pueden realizar la mayoría de las acciones dentro del sitio y se eliminan después de 24 horas si no se realiza ninguna acción.\nHaz clic en \"Enviar verificación\" para que podamos enviarte el enlace de verificación.",
+    "send_verification": "Enviar verificación"
 }
