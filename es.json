@@ -264,7 +264,7 @@
     "mod_waiting": "Este mod está esperando a ser aprobado",
     "mod_waiting_desc": "Este mod será invisible hasta que sea aprobado por un moderador. Asegúrate de que respete nuestras reglas.",
     "mod_rejected": "¡El mod ha sido rechazado!",
-    "mod_rejected_desc": "El mod ha sido rechazado debido a que no cumple con nuestras reglas. Por ejemplo: no incluir las fuentes originales de la música, o usar utiliza música con derechos de autor (Copyright).",
+    "mod_rejected_desc": "El mod ha sido rechazado debido a que no cumple con nuestras reglas. Por ejemplo: no incluir las fuentes originales de la música, o usar música con derechos de autor (Copyright).",
     "approve": "Aprobar",
     "reject": "Rechazar",
     "add_offsite_mod": "Añadir mod externo",
