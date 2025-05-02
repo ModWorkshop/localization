@@ -674,5 +674,6 @@
     "send_verification": "Send Verification",
     "new_user_title": "Successfully Created!",
     "new_user_desc": "You may now login into your new account and verify your email.",
-    "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'."
+    "verification_warning": "Email verifications are not sent automatically upon registration, you must click on 'Send Verification'.",
+    "donate_to_user": "Donate to User"
 }

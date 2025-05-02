@@ -674,5 +674,6 @@
     "donation_invalid": "You've entered an invalid donation link. We only support PayPal, Ko-Fi, GitHub Sponsors and Buy Me a Coffee.",
     "verify_email_title": "Email Verification",
     "verify_email_desc": "You must verify your email.\nInactive accounts cannot do most actions on the site and are deleted after 24 hours if no action is taken.\nClick on 'Send Verification' to send the verification link.",
-    "new_user_desc": "You may now login into your new account and verify your email."
+    "new_user_desc": "You may now login into your new account and verify your email.",
+    "donate_to_user": "Donate to User"
 }

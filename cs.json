@@ -674,5 +674,6 @@
     "new_user_desc": "Nyní se můžete přihlásit ke svému novému účtu a ověřit svůj e-mail.",
     "send_verification": "Odeslat Ověření",
     "verify_email_desc": "Musíte ověřit svůj e-mail.\nNeaktivní účty nemohou provádět většinu akcí na webu a budou smazány pokud neprovedete žádnou akci po 24 hodinách.\nKliknutím na 'Odeslat Ověření' odešlete ověřovací odkaz.",
-    "verification_warning": "E-mailová ověření se při registraci neodesílají automaticky, musíte kliknout na 'Odeslat Ověření'."
+    "verification_warning": "E-mailová ověření se při registraci neodesílají automaticky, musíte kliknout na 'Odeslat Ověření'.",
+    "donate_to_user": "Donate to User"
 }

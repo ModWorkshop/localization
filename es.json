@@ -674,5 +674,6 @@
     "new_user_desc": "Ahora puedes iniciar sesión en tu cuenta nueva y verificar tu correo electrónico.",
     "new_user_title": "¡Creado con éxito!",
     "verify_email_desc": "Debes verificar tu correo electrónico.\nLas cuentas que no han sido activadas no pueden realizar la mayoría de las acciones dentro del sitio y se eliminan después de 24 horas si no se realiza ninguna acción.\nHaz clic en \"Enviar verificación\" para que podamos enviarte el enlace de verificación.",
-    "send_verification": "Enviar verificación"
+    "send_verification": "Enviar verificación",
+    "donate_to_user": "Donate to User"
 }
