@@ -130,6 +130,7 @@
     "open": "Open",
     "dark_theme": "Dark Theme",
     "light_theme": "Light Theme",
+    "system_theme": "System Theme",
     "content_settings": "Content Settings",
     "remove": "Remove",
     "resource_mod": "mod",
@@ -657,5 +658,15 @@
     "grid_mode": "Grid Mode",
     "just_now": "just now",
     "new_user_title": "Successfully Created!",
-    "new_user_desc": "You may now login into your new account and verify your email."
+    "new_user_desc": "You may now login into your new account and verify your email.",
+    "use_relative_time": "Use Relative Time",
+    "site_wide": "Site-Wide",
+    "theme": "Theme",
+    "language": "Language",
+    "customize_cookie_alert": "You chose to not allow for cookies to be set, so your preferences will not be saved. If you want to save your preferences, please allow cookies.",
+    "use_relative_time_desc": "Makes some time labels show as time ago, for example '1 hour ago'",
+    "repo_url": "Repository URL",
+    "liked_at": "Like Date",
+    "ignore": "Ignore",
+    "Unignore": "Unignore"
 }
