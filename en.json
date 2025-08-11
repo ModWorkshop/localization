@@ -421,6 +421,7 @@
     "followed_users": "Followed Users",
     "blocked_tags": "Blocked Tags",
     "blocked_users": "Blocked Users",
+    "blocked_user": "Blocked User",
     "block_tag": "Block Tag",
     "login_using_services": "Or login using one the following",
     "register_error_409": "The given unique name or email already exist!",
