@@ -669,5 +669,6 @@
     "repo_url": "Repository URL",
     "liked_at": "Like Date",
     "ignore": "Ignore",
-    "Unignore": "Unignore"
+    "Unignore": "Unignore",
+    "audit_log": "Audit Log"
 }
