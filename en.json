@@ -669,6 +669,9 @@
     "repo_url": "Repository URL",
     "liked_at": "Like Date",
     "ignore": "Ignore",
-    "Unignore": "Unignore",
-    "audit_log": "Audit Log"
+    "unignore": "Unignore",
+    "ignored_games": "Ignores Games",
+    "ignored_mods": "Ignored Mods",
+    "audit_log": "Audit Log",
+    "copy_link": "Copy Link"
 }
