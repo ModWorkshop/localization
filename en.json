@@ -466,7 +466,7 @@
     "send_verification": "Send Verification",
     "resend": "Resend",
     "pending_email": "You've requested to change your email to: {0}. Please check your inbox for the verification link.",
-    "game_preferences": "Game Preferences",
+    "game_settings": "Game Settings",
     "game_buttons": "Menu Buttons",
     "game_buttons_desc": "Lets you add custom buttons for the game navbar. Format: button name{'|'}link{'|'}icon,name2{'|'}link2,... icon is optional. You can see available icons here: https://icones.js.org/collection/mdi",
     "webhook_url": "Discord Webhook URL",
