@@ -676,5 +676,22 @@
     "send_verification": "Invia verifica",
     "new_user_title": "Creato con successo!",
     "new_user_desc": "Ora è possibile accedere al nuovo account e verificare l'email.",
-    "donate_to_user": "Dona all'Utente"
+    "donate_to_user": "Dona all'Utente",
+    "system_theme": "System Theme",
+    "blocked_user": "Blocked User",
+    "game_settings": "Game Settings",
+    "use_relative_time": "Use Relative Time",
+    "site_wide": "Site-Wide",
+    "theme": "Theme",
+    "language": "Language",
+    "use_relative_time_desc": "Makes some time labels show as time ago, for example '1 hour ago'",
+    "ignore": "Ignore",
+    "unignore": "Unignore",
+    "ignored_games": "Ignores Games",
+    "ignored_mods": "Ignored Mods",
+    "audit_log": "Audit Log",
+    "copy_link": "Copy Link",
+    "customize_cookie_alert": "You chose to not allow for cookies to be set, so your preferences will not be saved. If you want to save your preferences, please allow cookies.",
+    "repo_url": "Repository URL",
+    "liked_at": "Like Date"
 }
